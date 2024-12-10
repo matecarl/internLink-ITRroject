@@ -19,8 +19,9 @@
 		"@sveltejs/adapter-auto": "^3.0.0",
 		"@sveltejs/kit": "^2.0.0",
 		"@sveltejs/vite-plugin-svelte": "^4.0.0",
+		"@types/node": "^22.10.1",
 		"autoprefixer": "^10.4.20",
-		"drizzle-kit": "^0.22.0",
+		"drizzle-kit": "^0.22.8",
 		"prettier": "^3.3.2",
 		"prettier-plugin-svelte": "^3.2.6",
 		"prettier-plugin-tailwindcss": "^0.6.5",
@@ -33,6 +34,6 @@
 	"dependencies": {
 		"@tailwindcss/forms": "^0.5.9",
 		"drizzle-orm": "^0.33.0",
-		"postgres": "^3.4.4"
+		"postgres": "^3.4.5"
 	}
 }
