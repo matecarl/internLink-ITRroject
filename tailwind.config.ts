@@ -8,5 +8,8 @@ export default {
 		extend: {}
 	},
 
-	plugins: [forms]
+ 	plugins: [
+		forms,
+		require('daisyui')
+	]
 } satisfies Config;
